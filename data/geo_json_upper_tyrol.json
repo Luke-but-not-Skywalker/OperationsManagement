@@ -12,7 +12,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Arzl im Pitztal",
-				"iso": "70201"
+				"iso": "70201",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"	
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -70,7 +72,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Haiming",
-				"iso": "70202"
+				"iso": "70202",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"				
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -132,7 +136,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Imst",
-				"iso": "70203"
+				"iso": "70203",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -218,7 +224,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Imsterberg",
-				"iso": "70204"
+				"iso": "70204",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -256,7 +264,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Jerzens",
-				"iso": "70205"
+				"iso": "70205",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -310,7 +320,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Karres",
-				"iso": "70206"
+				"iso": "70206",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -340,7 +352,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Karrösten",
-				"iso": "70207"
+				"iso": "70207",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -374,7 +388,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Längenfeld",
-				"iso": "70208"
+				"iso": "70208",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -448,7 +464,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Mieming",
-				"iso": "70209"
+				"iso": "70209",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -518,7 +536,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Mils bei Imst",
-				"iso": "70210"
+				"iso": "70210",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -548,7 +568,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Mötz",
-				"iso": "70211"
+				"iso": "70211",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -582,7 +604,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Nassereith",
-				"iso": "70212"
+				"iso": "70212",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -648,7 +672,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Obsteig",
-				"iso": "70213"
+				"iso": "70213",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -698,7 +724,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Oetz",
-				"iso": "70214"
+				"iso": "70214",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -740,7 +768,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Rietz",
-				"iso": "70215"
+				"iso": "70215",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -782,7 +812,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Roppen",
-				"iso": "70216"
+				"iso": "70216",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -828,7 +860,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "St. Leonhard im Pitztal",
-				"iso": "70217"
+				"iso": "70217",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -910,7 +944,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Sautens",
-				"iso": "70218"
+				"iso": "70218",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -948,7 +984,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Silz",
-				"iso": "70219"
+				"iso": "70219",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1014,7 +1052,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Stams",
-				"iso": "70221"
+				"iso": "70221",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1068,7 +1108,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Tarrenz",
-				"iso": "70222"
+				"iso": "70222",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1134,7 +1176,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Umhausen",
-				"iso": "70223"
+				"iso": "70223",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1208,7 +1252,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Wenns",
-				"iso": "70224"
+				"iso": "70224",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1250,7 +1296,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Telfs",
-				"iso": "70357"
+				"iso": "70357",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1312,7 +1360,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Wildermieming",
-				"iso": "70368"
+				"iso": "70368",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1358,7 +1408,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fendels",
-				"iso": "70602"
+				"iso": "70602",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1396,7 +1448,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fiss",
-				"iso": "70603"
+				"iso": "70603",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1446,7 +1500,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Fließ",
-				"iso": "70604"
+				"iso": "70604",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1496,7 +1552,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Flirsch",
-				"iso": "70605"
+				"iso": "70605",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1534,7 +1592,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Galtür",
-				"iso": "70606"
+				"iso": "70606",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1588,7 +1648,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Grins",
-				"iso": "70607"
+				"iso": "70607",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1630,7 +1692,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ischgl",
-				"iso": "70608"
+				"iso": "70608",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1684,7 +1748,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kappl",
-				"iso": "70609"
+				"iso": "70609",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1758,7 +1824,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kauns",
-				"iso": "70612"
+				"iso": "70612",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1796,7 +1864,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Landeck",
-				"iso": "70614"
+				"iso": "70614",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1838,7 +1908,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Nauders",
-				"iso": "70615"
+				"iso": "70615",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1884,7 +1956,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pettneu am Arlberg",
-				"iso": "70616"
+				"iso": "70616",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -1930,7 +2004,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pfunds",
-				"iso": "70617"
+				"iso": "70617",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2008,7 +2084,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Prutz",
-				"iso": "70619"
+				"iso": "70619",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2050,7 +2128,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ried im Oberinntal",
-				"iso": "70620"
+				"iso": "70620",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2104,7 +2184,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Schönwies",
-				"iso": "70622"
+				"iso": "70622",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2146,7 +2228,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "See",
-				"iso": "70623"
+				"iso": "70623",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2188,7 +2272,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Serfaus",
-				"iso": "70624"
+				"iso": "70624",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2238,7 +2324,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Spiss",
-				"iso": "70625"
+				"iso": "70625",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2276,7 +2364,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Stanz bei Landeck",
-				"iso": "70626"
+				"iso": "70626",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2306,7 +2396,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Strengen",
-				"iso": "70627"
+				"iso": "70627",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2344,7 +2436,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Tobadill",
-				"iso": "70628"
+				"iso": "70628",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2386,7 +2480,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Tösens",
-				"iso": "70629"
+				"iso": "70629",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2428,7 +2524,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Zams",
-				"iso": "70630"
+				"iso": "70630",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2506,7 +2604,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bach",
-				"iso": "70801"
+				"iso": "70801",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2564,7 +2664,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Berwang",
-				"iso": "70802"
+				"iso": "70802",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2614,7 +2716,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Biberwier",
-				"iso": "70803"
+				"iso": "70803",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2656,7 +2760,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Bichlbach",
-				"iso": "70804"
+				"iso": "70804",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2694,7 +2800,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Breitenwang",
-				"iso": "70805"
+				"iso": "70805",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2724,7 +2832,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ehenbichl",
-				"iso": "70806"
+				"iso": "70806",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2762,7 +2872,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Ehrwald",
-				"iso": "70807"
+				"iso": "70807",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2804,7 +2916,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Elbigenalp",
-				"iso": "70808"
+				"iso": "70808",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2846,7 +2960,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Elmen",
-				"iso": "70809"
+				"iso": "70809",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2884,7 +3000,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Forchach",
-				"iso": "70810"
+				"iso": "70810",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2918,7 +3036,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Grän",
-				"iso": "70811"
+				"iso": "70811",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2960,7 +3080,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Häselgehr",
-				"iso": "70813"
+				"iso": "70813",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3014,7 +3136,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Heiterwang",
-				"iso": "70814"
+				"iso": "70814",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3060,7 +3184,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Hinterhornbach",
-				"iso": "70815"
+				"iso": "70815",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3110,7 +3236,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Höfen",
-				"iso": "70816"
+				"iso": "70816",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3144,7 +3272,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Holzgau",
-				"iso": "70817"
+				"iso": "70817",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3194,7 +3324,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Kaisers",
-				"iso": "70819"
+				"iso": "70819",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3256,7 +3388,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Lechaschau",
-				"iso": "70820"
+				"iso": "70820",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3298,7 +3432,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Lermoos",
-				"iso": "70821"
+				"iso": "70821",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3356,7 +3492,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Musau",
-				"iso": "70822"
+				"iso": "70822",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3406,7 +3544,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Namlos",
-				"iso": "70823"
+				"iso": "70823",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3452,7 +3592,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Nesselwängle",
-				"iso": "70824"
+				"iso": "70824",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3494,7 +3636,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pfafflar",
-				"iso": "70825"
+				"iso": "70825",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3536,7 +3680,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pflach",
-				"iso": "70826"
+				"iso": "70826",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3574,7 +3720,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Pinswang",
-				"iso": "70827"
+				"iso": "70827",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3608,7 +3756,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Reutte",
-				"iso": "70828"
+				"iso": "70828",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3702,7 +3852,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Stanzach",
-				"iso": "70830"
+				"iso": "70830",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3756,7 +3908,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Steeg",
-				"iso": "70831"
+				"iso": "70831",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3802,7 +3956,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Tannheim",
-				"iso": "70832"
+				"iso": "70832",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3852,7 +4008,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Vils",
-				"iso": "70833"
+				"iso": "70833",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3894,7 +4052,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Vorderhornbach",
-				"iso": "70834"
+				"iso": "70834",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3936,7 +4096,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Wängle",
-				"iso": "70835"
+				"iso": "70835",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -3974,7 +4136,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Weißenbach am Lech",
-				"iso": "70836"
+				"iso": "70836",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -4056,7 +4220,9 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Zöblen",
-				"iso": "70837"
+				"iso": "70837",
+				"emp_percentage": "xx.xx",
+				"emp_amount": "xx.xx"
 			},
 			"geometry": {
 				"type": "Polygon",
